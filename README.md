@@ -2,6 +2,7 @@
 This is  REST API Debugger.
 Made by Embarcadero RAD Studio C++ Builder, made mostly for example purpose.
 (There was no example about REST Debugger) 
+
 **Functions**
 - GET Request
 - POST Request
